@@ -1,0 +1,21 @@
+.table-responsive {
+    height: 400px;
+    width: 100%;
+    overflow: scroll;
+    margin-left: 90px;
+}
+
+/* .thead tr:nth-child(1) th{
+    background: white;
+    position: sticky;
+    border: 10px;
+    top: 0;
+    z-index: 10;
+    align-content: center;
+} */
+
+.fa-caret-square-down {
+    border-left: 30px;
+    border-right: 30px;
+    color: #74d82c;
+}

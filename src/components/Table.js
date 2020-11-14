@@ -2,6 +2,7 @@ import React from "react";
 import API from "../utils/api";
 import Search from "./Search";
 import DateFormat from "dateformat";
+import "../styles/table.css"
 
 class Table extends React.Component {
 
